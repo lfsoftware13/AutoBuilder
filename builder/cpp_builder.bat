@@ -1,5 +1,5 @@
 @echo off
-set vcvarsall_path="E:\Program Files (x86)\Visual Studio\VC\vcvarsall.bat"
+set vcvarsall_path="E:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\vcvarsall.bat"
 set file_path=%1
 set h_path=%2
 set file_output=%3
